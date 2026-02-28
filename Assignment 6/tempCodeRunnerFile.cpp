@@ -1,0 +1,2 @@
+delete[] ele;
+    delete[] query;
