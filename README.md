@@ -1,5 +1,5 @@
 # 2023_Data_Structure
-The Assignments of the Class *Data Structure and Graph Algorithm*. \ 
+The Assignments of the Class *Data Structure and Graph Algorithm*.$ \ $
 Each folder contains the implementation of the problem and the report.
 
 ## Course Imformation.
