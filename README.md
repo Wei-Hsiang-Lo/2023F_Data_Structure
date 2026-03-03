@@ -6,4 +6,4 @@ Each folder contains the implementation of the problem and the report.
 ## Course Imformation.
 * Teacher：官大智
 * Perminant Couse ID：SCMA30018
-* Couse Name：	Data Structures and Graph Algorithms
+* Course Name：	Data Structures and Graph Algorithms
